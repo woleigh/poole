@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: CNIDevops
+tagline: The home of CNI Plugin Research
+url: https://woleigh.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
+  name: Oluwole Leigh
   url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  email: woleigh2000@gmail.com
 
 # Custom vars
 version: 3.0.0
